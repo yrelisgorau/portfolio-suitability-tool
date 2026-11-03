@@ -197,7 +197,7 @@ This is a demonstration of the core logic, not a compliance system. In particula
 
 ## Author
 
-Built by Joseff Elis Baglin, a physics graduate (Queen Mary University of London) with an interest in wealth management operations.
+Built by Joseff Elis Baglin, a physics graduate (Queen Mary University of London).
 
 ## Disclaimer
 
