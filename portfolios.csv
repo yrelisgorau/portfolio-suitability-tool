@@ -1,0 +1,6 @@
+client,profile,equities,bonds,cash,alternatives
+Client 001,balanced,50000,30000,10000,10000
+Client 002,balanced,62000,18000,8000,12000
+Client 003,cautious,21000,49000,24000,6000
+Client 004,growth,45000,30000,15000,10000
+Client 005,adventurous,84000,6000,2000,8000
